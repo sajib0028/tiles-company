@@ -4944,7 +4944,7 @@ button {
 .contact-one--two {
     position: relative;
     display: block;
-    padding: 0px 0px 120px;
+    padding: 120px 0px 120px;
 }
 
 .contact-one--two .contact-one__img {
