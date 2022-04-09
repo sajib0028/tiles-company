@@ -1,6 +1,5 @@
 <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-next"></i></a>
 
-
     <script src="assets/vendors/jquery/jquery-3.5.1.min.js"></script>
     <!-- <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
@@ -26,8 +25,6 @@
     <script src="assets/vendors/nice-select/jquery.nice-select.min.js"></script>
     <script src="assets/vendors/progress-bar/knob.js"></script>
     <script src="assets/vendors/tilt.js/tilt.jquery.js"></script>
-
-
 
     <!-- template js -->
     <script src="assets/js/alori.js"></script>
