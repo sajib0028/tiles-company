@@ -28,7 +28,6 @@
     <script src="assets/vendors/tilt.js/tilt.jquery.js"></script>
 
 
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyATY4Rxc8jNvDpsK8ZetC7JyN4PFVYGCGM"></script>
 
     <!-- template js -->
     <script src="assets/js/alori.js"></script>

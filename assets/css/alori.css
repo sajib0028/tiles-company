@@ -1043,7 +1043,7 @@ button {
 .mobile-nav__content .main-menu__list li a {
     display: flex;
     justify-content: space-between;
-    line-height: 30px;
+    line-height: 20px;
     color: #ffffff;
     font-size: 16px;
     font-family: var(--thm-font);
