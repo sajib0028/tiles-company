@@ -127,21 +127,21 @@
                     <ul>
                         <li>
                             <h5>Address</h5>
-                            <p>Al Quoz - Al Quoz Industrial Area 4 <br>Dubai, UAE</p>
+                            <p>S.2 18A Street, Al Quoz Industrial Area 4 Dubai, UAE</p>
                         </li>
                         <li>
                             <h5>Phone</h5>
                             <p><a href="tel:045913320">045913320</a></p>
                         </li>
-                        <li>
+                        <!-- <li>
                             <h5>Email</h5>
                             <p><a href="mailto:needhelp@company.com">info@gmail.com</a></p>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
                 
                 <div class="copy-right-text">
-                    <p>©2022, All Rights Reserved.</p>
+                    <p>©2017, All Rights Reserved.</p>
                 </div>
             </div>
         </section>

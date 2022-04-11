@@ -29,7 +29,7 @@
 
                     <!--Start Single Swiper Slide-->
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-v1-1.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/banner-5.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-12">
@@ -50,7 +50,7 @@
 
                     <!--Start Single Swiper Slide-->
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-v1-2.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/banner-2.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-12">
@@ -71,7 +71,7 @@
 
                     <!--Start Single Swiper Slide-->
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-v1-3.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/banner-3.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-12">
@@ -150,7 +150,7 @@
                             <div class="shape1 zoom-fade"><img src="assets/images/shapes/about-v1-shape1.png" alt="" />
                             </div>
                             <div class="about-one__img1">
-                                <img src="assets/images/about/about-v1-img1.jpg" alt="" />
+                                <img src="assets/images/about/Statuary-marble-2-760x500.jpeg" alt="" />
                             </div>
 
                             <div class="about-one__img2">
@@ -159,7 +159,7 @@
                                         <span class="icon-play-button-3"></span>
                                     </a>
                                 </div> -->
-                                <img src="assets/images/about/about-v1-img2.jpg" alt="" />
+                                <img src="assets/images/about/about.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -280,10 +280,10 @@
                             <div class="shape3"><img src="assets/images/shapes/best-logistics-v1-shape2.png" alt="" />
                             </div>
                             <div class="best-logistics-one__img-inner">
-                                <img src="assets/images/resources/best-logistics-v1-img.jpg" alt="" />
+                                <img src="assets/images/resources/marble-dark.jpg" alt="" />
                             </div>
                             <div class="overlay-content">
-                                <h2>We Are Since 2016 ! Over 20 Awards</h2>
+                                <h2>We Are Since 2017 ! Over 20 Awards</h2>
                             </div>
                         </div>
                     </div>
@@ -320,7 +320,7 @@
                     <!--End Single Services One-->
 
                     <!--Start Single Services One-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                         <div class="services-one__single text-center">
                             <div class="services-one__single-icon bg2">
                                 <span class="icon-kitchen1"></span>
@@ -334,7 +334,7 @@
                     <!--End Single Services One-->
 
                     <!--Start Single Services One-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                         <div class="services-one__single text-center">
                             <div class="services-one__single-icon bg3">
                                 <span class="icon-logs"></span>
@@ -348,7 +348,7 @@
                     <!--End Single Services One-->
 
                      <!--Start Single Services One-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="services-one__single text-center">
                             <div class="services-one__single-icon">
                                 <span class="icon-light-floor-svgrepo-com"></span>
@@ -362,7 +362,7 @@
                     <!--End Single Services One-->
 
                      <!--Start Single Services One-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="800ms" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
                         <div class="services-one__single text-center">
                             <div class="services-one__single-icon bg2">
                                 <span class="icon-parquet-floor-svgrepo-com"></span>
@@ -376,14 +376,14 @@
                     <!--End Single Services One-->
 
                      <!--Start Single Services One-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="1000ms" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
                         <div class="services-one__single text-center">
                             <div class="services-one__single-icon bg3">
                                 <span class="icon-wood-pile-svgrepo-com"></span>
                             </div>
                             <h2><a href="carpentry-wood-flooring.php">Carpentry & Wood Flooring</a></h2>
                             <div class="text">
-                                <p>Our Carpenters always use high quality of wood in wooden flooring and use the proper installation. </p>
+                                <p>Our Carpenters always use high quality of materials in  flooring and use the proper installation. </p>
                             </div>
                         </div>
                     </div>
@@ -391,7 +391,7 @@
 
                      <!--Start Single Services One-->
                 
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="1200ms" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="services-one__single text-center">
                             <div class="services-one__single-icon bg">
                                 <span class="icon-wood-board"></span>
@@ -433,10 +433,10 @@
                     <div class="col-xl-6">
                         <div class="our-material-one__img">
                             <div class="our-material-one__img1">
-                                <img src="assets/images/resources/our-material-v1-img1.jpg" alt="" />
+                                <img src="assets/images/resources/3d-rendering-modern-luxury-hotel-office-reception-meeting-lounge.jpg" alt="" />
                             </div>
                             <div class="our-material-one__img2 wow zoomIn" data-wow-delay="100ms">
-                                <img src="assets/images/resources/our-material-v1-img2.jpg" alt="" />
+                                <img src="assets/images/resources/Gray-Parquet-300x300.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -513,9 +513,9 @@
         <!--Start Contact One-->
         <section class="contact-one">
             <div class="shape1"><img src="assets/images/shapes/contact-v1-shape1.png" alt="" /></div>
-            <div class="contact-one__img" style="background-image: url(assets/images/resources/contact-v1-img1.jpg);">
+            <div class="contact-one__img" style="background-image: url(assets/images/resources/contact.jpg);">
                 <div class="overlay-content text-center">
-                    <h2>8</h2>
+                    <h2>5</h2>
                     <h3>Years of <br>Expeirence</h3>
                 </div>
             </div>

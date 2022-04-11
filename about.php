@@ -12,7 +12,7 @@
 
         <!--Start Page Header-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-img1.jpg);">
+            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/banner.jpg);">
             </div>
             <div class="container">
                 <div class="row">
@@ -51,7 +51,7 @@
 
                             <div class="about-one__img2">
                                 
-                                <img src="assets/images/about/about-v2-img2.jpg" alt="" />
+                                <img src="assets/images/about/about-2.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -126,11 +126,11 @@
                         <div class="mission-one__img">
                             <div class="shape1"><img src="assets/images/shapes/mission-v1-shape1.jpg" alt="" /></div>
                             <div class="mission-one__img-img1">
-                                <img src="assets/images/resources/mission-v1-img1.jpg" alt="" />
+                                <img src="assets/images/resources/moved-img-1.png" alt="" />
                             </div>
 
                             <div class="mission-one__img-img2 wow slideInRight" data-wow-delay="500ms" data-wow-duration="2500ms">
-                                <img src="assets/images/resources/mission-v1-img2.jpg" alt="" />
+                                <img src="assets/images/resources/service.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -201,10 +201,10 @@
                             <div class="shape3"><img src="assets/images/shapes/best-logistics-v1-shape2.png" alt="" />
                             </div>
                             <div class="best-logistics-one__img-inner">
-                                <img src="assets/images/resources/best-logistics-v1-img.jpg" alt="" />
+                                <img src="assets/images/resources/marble-dark.jpg" alt="" />
                             </div>
                             <div class="overlay-content">
-                                <h2>We Are Since 2016 ! Over 20 Awards</h2>
+                                <h2>We Are Since 2017 ! Over 20 Awards</h2>
                             </div>
                         </div>
                     </div>
@@ -217,9 +217,9 @@
         <!--Start Contact One-->
         <section class="contact-one contact-one--two">
             <div class="shape1"><img src="assets/images/shapes/contact-v1-shape1.png" alt="" /></div>
-            <div class="contact-one__img" style="background-image: url(assets/images/resources/contact-v1-img1.jpg);">
+            <div class="contact-one__img" style="background-image: url(assets/images/resources/contact.jpg);">
                 <div class="overlay-content text-center">
-                    <h2>8</h2>
+                    <h2>5</h2>
                     <h3>Years of <br>Expeirence</h3>
                 </div>
             </div>

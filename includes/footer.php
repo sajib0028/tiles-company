@@ -65,9 +65,9 @@
                                         <div class="footer-widget__column footer-widget__contact-info">
                                             <h2 class="footer-widget__title">Contact Details</h2>
                        
-                                            <p class="footer-widget__about-text"><strong>Address: </strong>Al Quoz - Al Quoz Industrial Area 4 Dubai, UAE</p>
+                                            <p class="footer-widget__about-text"><strong>Address: </strong>S.2 18A Street, Al Quoz Industrial Area 4 Dubai, UAE</p>
                                             <p class="footer-widget__about-text"><strong>Phone: </strong><a href="tel:">045913320</a></p>
-                                            <p class="footer-widget__about-text"><strong>Email: </strong><a href="mailto:">info@gmail.com</a></p>
+                                           <!--  <p class="footer-widget__about-text"><strong>Email: </strong><a href="mailto:">info@gmail.com</a></p> -->
                                             
                                         </div>
                                     </div>
@@ -89,13 +89,13 @@
                         <div class="col-xl-12">
                             <div class="footer-one__bottom-inner">
                                 <div class="footer-one__bottom-text">
-                                    <p>Copyright &copy; 2022 All Rights Reserved by Kashmir Tiles & Marbles Fixing LLC.</p>
+                                    <p>Copyright &copy; 2017 All Rights Reserved by Kashmir Tiles & Marbles Fixing LLC.</p>
                                 </div>
 
                                 <div class="footer-one__bottom-list">
                                     <ul>
                                         <li><a href="about.php">About Site</a></li>
-                                        <li><a href="privacy.php">Privacy Policy</a></li>
+                                        <li><a href="#">Privacy Policy</a></li>
                                     </ul>
                                 </div>
 
@@ -136,7 +136,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope" aria-hidden="true"></i>
-                    <a href="mailto:contact@kashmirtiles.com">contact@kashmirtiles.com</a>
+                    <!-- <a href="mailto:contact@kashmirtiles.com">contact@kashmirtiles.com</a> -->
                 </li>
                 <li>
                     <i class="fa fa-phone" aria-hidden="true"></i>

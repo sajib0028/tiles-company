@@ -128,7 +128,7 @@
                             </div>
                             <h2><a href="carpentry-wood-flooring.php">Carpentry & Wood Flooring</a></h2>
                             <div class="text">
-                                <p>Our Carpenters always use high quality of wood in wooden flooring and use the proper installation. </p>
+                                <p>Our Carpenters always use high quality of materials in flooring and use the proper installation. </p>
                             </div>
                         </div>
                     </div>
