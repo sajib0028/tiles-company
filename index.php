@@ -416,8 +416,7 @@
                     <div class="col-xl-6">
                         <div class="our-material-one__content">
                             <div class="sec-title">
-                                <h2 class="sec-title__title">Our Flooring Hardwood, <br>Material Stone,
-                                    Laminate, Carpet</h2>
+                                <h2 class="sec-title__title">Beautifully Crafted, Designed to Last </h2>
                                 <p class="sec-title__text">For ages, marble has been known for its timeless charm. It beautifully adds elegance and character to every room it is part of. Hence, considering this nature’s gift as one of the key parts of a promising interior project comes naturally to most architects and designers. </p>
                             </div>
 
