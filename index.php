@@ -180,15 +180,7 @@
                             </div>
 
                             <ul class="about-one__content-list">
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-wood-board"></span>
-                                    </div>
-
-                                    <div class="title">
-                                        <h3>Hardwood Floor Repair</h3>
-                                    </div>
-                                </li>
+                                
 
                                 <li>
                                     <div class="icon">
