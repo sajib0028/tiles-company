@@ -376,7 +376,7 @@
                     <!--End Single Services One-->
 
                      <!--Start Single Services One-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
+                 <!--    <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
                         <div class="services-one__single text-center">
                             <div class="services-one__single-icon bg3">
                                 <span class="icon-wood-pile-svgrepo-com"></span>
@@ -386,7 +386,7 @@
                                 <p>Our Carpenters always use high quality of materials in  flooring and use the proper installation. </p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--End Single Services One-->
 
                      <!--Start Single Services One-->

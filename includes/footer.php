@@ -48,7 +48,7 @@
                                                 <li class="footer-widget__services-list-item"><a href="plumbing-sanitary.php">Plumbing & Sanitary Installation </a></li>
                                                 <li class="footer-widget__services-list-item"><a href="plaster.php">Plaster Works</a></li>
                                                 <li class="footer-widget__services-list-item"><a href="floor-wall-tiling.php">Floor & Wall Tiling</a></li>
-                                                <li class="footer-widget__services-list-item"><a href="carpentry-wood-flooring.php">Carpentry & Wood Flooring</a></li>
+                                                <!-- <li class="footer-widget__services-list-item"><a href="carpentry-wood-flooring.php">Carpentry & Wood Flooring</a></li> -->
                                                 <li class="footer-widget__services-list-item"><a href="painting-contract.php">Painting Contracting</a></li>
                                             </ul>
                                         </div>
